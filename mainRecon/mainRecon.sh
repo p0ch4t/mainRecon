@@ -25,8 +25,8 @@ Usage: ./mainRecon.sh [-p/--program] hackerone [-f/--file] targets.txt [-m/--mod
 }
 
 # Bot Telegram
-bot_token='5573433981:AAEcyaP2rXLYmFbxYDBjFsWcsTYYTpK3ujQ'
-chat_ID='1149609099'
+bot_token='<INGRESE SU BOT TOKEN>'
+chat_ID='<INGRESE SU CHAT ID>'
 url="https://api.telegram.org/bot$bot_token/sendMessage"
 
 # Functions
